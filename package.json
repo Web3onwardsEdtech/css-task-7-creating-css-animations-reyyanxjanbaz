@@ -1,0 +1,11 @@
+{
+  "name": "animations-transitions-task",
+  "version": "1.0.0",
+  "description": "A task to apply keyframe animations and CSS transitions to a profile page.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
